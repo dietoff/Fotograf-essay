@@ -1,0 +1,42 @@
+---
+site: bookdown::bookdown_site
+documentclass: article
+toc: false
+citation_package: biblatex
+bibliography: /Users/dietmar/Dropbox/zotero/Zotero.bib
+csl: /Users/dietmar/Dropbox/zotero/styles/chicago-note-bibliography.csl
+---
+
+# Photography and other autographic acts
+
+We live in a warming world, and yet, none of its living beings are directly affected by the climate---they only care about the weather.[^index-1] As humans, likewise, we can never experience the climate itself: it is a statistical concept, or as the philosopher Timothy Morton puts it, a *hyperobject* distributed in space and time.[@morton2013] While science is concerned with the bigger picture---long-term trends that only become visible through statistical generalizations---the same abstractions are the reason for endless public confusions and disinformation. "It is only a model" is the rallying cry of climate skeptics, as if mathematical representations of complex natural systems could be anything else. Climate and weather are often conflated, leading to speculations if certain extreme weather events prove or disprove global warming. We cannot perceive the climate, only the weather. But as Morton also points out, *hyperobjects* tend to leave footprints everywhere, and these footprints can be perceived and aesthetically experienced: shrinking glaciers and countless other traces in our environment. Tree rings and ocean sediments are natural forms of statistical aggregation---the impacts of many small weather events condensed into physical patterns that form over decades, centuries, and millennia.
+
+Our present intellectual discourse, however, has largely stopped paying attention to physical traces. They are merely the starting points for data sets, semiotic attributions, and rhetorical arguments. We tend to encounter traces only in mediated and highly processed form, for example, as digital photographs supporting evidentiary claims. This has not always been the case. The epistemology of the late 19th century was obsessed with traces, imprints, and inscriptions. As Henry Thoreau roamed the forests around Walden and Cape Cod, he never failed to report all kinds of traces he encountered, from animal tracks to native-american arrowheads. Contemplating a tree stump of a freshly cut tree, he notes: "See how many traces from which we may learn the chopper's history. From this stump we may guess the sharpness of his axe, and, from the slope of the stroke, on which side he stood, and whether he cut down the tree without going round it or changing hands; and, from the flexure of the splinters, we may know which way it fell. This one chip contains inscribed on it the whole history of the wood-chopper and of the world."[@thoreau2011, p. 61]
+
+What may seem like a quirk of an also otherwise idiosyncratic figure was in fact a perspective on the world shared by many of Thoreau's contemporaries. Historian Carlo Ginzburg describes this epistemology as the conjectural paradigm, which he finds in the methods of the art critic Giovanni Morelli, the psychoanalyst Sigmund Freud, and the fictional detective Sherlock Holmes.[@ginzburg1980] According to Ginzburg, the three share a taste for seemingly insignificant details, which lead them to significant discoveries. Morelli can identify forged portraits based on the style of an ear or a hand. Freud attaches great significance to every carelessly spoken word, and Holmes pays attention even to absent traces, such as the dog that did not bark when the owner's horse was stolen. Ginzburg locates the origin of this epistemology of traces in the advances of medical diagnostics---Morelli, Freud, and Arthur Conan Doyle were all physicians by training, attuned to the interpretation of the slightest symptoms as indicators of underlying conditions.
+
+But one could argue that there is another cultural phenomenon perhaps more directly connected to the fascination with traces in the second half of the 19th century: photography and its emergence as a mass medium. Of course, none of this seems unfamiliar. The dual life of a photograph as a picture and a physical trace---or in semiotic terms, as an icon and an index---is a well-worn trope in contemporary media theory. But while the semiotic discourse around photography tends to take its material aspects for granted, the early days of photography were more focused on the optical-chemical process itself---the pencil of nature, as Henry Fox Talbot called it. It is only a small step to see the self-inscribing process of darkening silver halide crystals that capture an image of reality as an analogy to learning and knowledge production. After all, are not all human memories, desires, and knowledge imprints in the human brain?
+
+But also the earth is a sensitive surface that, similar to a photographic plate, records everything that has taken place. Transcendentalist poet Ralph Waldo Emerson wrote in 1850: "Nature will be reported. All things are engaged in writing their history. The planet, the pebble, goes attended by its shadow. The rolling rock leaves its scratches on the mountain; the river its channel in the soil; the animal its bones in the stratum; the fern and leaf their modest epitaph in the coal."[@emerson1901, p. 203]
+
+including human acts and thoughts. Thoreau, contemplating native american arrowheads, describes them as *mindprints*: "They are not fossil bones, but, as it were, fossil thoughts, forever reminding me of the mind that shaped them."[@thoreau2011a, p. 557] 
+
+questions of whether digital photo manipulation destroys the indexicality of the photograph. whether a satellite scene should be regarded as an image or a measurement and so on...
+
+The digital image, raises some of these issues again - rheinberger - discussions of whether a satellite image is an image or the visualization of an act of measurement - since no camera in the traditional sense is involved, data composites from different spectral sensors capturing waves far outside the visible spectrum. also questions of the trace-like, indexical nature of the photograph in the age of digital image manipulation.
+
+We should return - no longer what the photographic trace signifies, but what it shares with other forms of inscription.
+
+Autography - the act of self inscription. How the world records its own history. Semiotics tends to distance us from the physicality of the process, and move us closer to language and questions of interpretation. Autography, the act of self-inscription, more apt.
+
+photography - trygg, nahrinen - photography, image making with the planet
+
+connection to the mind -
+
+Garber - links to writing - "autographical act" mix of intentional and unintentional, the same way how the writer writes with intention, but unintentionally writes themselves into the text, which now can be extracted with statistical text analysis. This is a very different view of writing - more focused on its unintentional traces than its intentionally encoded information.
+
+but from perspective of autographic visualization, these seemingly difficult and fraught issues are not relevant. Both chemical photo and the satellite image are physical traces in the same sense. the only difference is the complexity of the apparatus in between. And in this sense, both share qualities with the layers in the ice core, the shrinking of the glacier, the tree rings ... the planetary self-inscriptions, in which processes manifest themselves - processes that rival or exceed the complexity of the satellite imaging device.
+
+goal is to return from issues of cultural signification to more curiosity
+
+[^index-1]: As marine scientist Brian Helmuth notes, increases in mean temperature over decades (i.e., climate) are not the proximate drivers of performance and survival at the scale of the organisms. Their vulnerability is affected by short term variations (i.e. weather) including extreme events that are implicit in climatic predictions. See @helmuth2014, p. 2

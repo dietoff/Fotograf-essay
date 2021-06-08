@@ -1,0 +1,5 @@
+bookdown::pdf_book:
+  number_sections: false
+  latex_engine: xelatex
+  keep_tex: no
+ 
