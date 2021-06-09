@@ -19,8 +19,6 @@ But one could argue that there is another cultural phenomenon perhaps more direc
 
 But also the earth is a sensitive surface that, similar to a photographic plate, records everything that has taken place. Transcendentalist poet Ralph Waldo Emerson wrote in 1850: "Nature will be reported. All things are engaged in writing their history. The planet, the pebble, goes attended by its shadow. The rolling rock leaves its scratches on the mountain; the river its channel in the soil; the animal its bones in the stratum; the fern and leaf their modest epitaph in the coal."[@emerson1901, p. 203]
 
-including human acts and thoughts. Thoreau, contemplating native american arrowheads, describes them as *mindprints*: "They are not fossil bones, but, as it were, fossil thoughts, forever reminding me of the mind that shaped them."[@thoreau2011a, p. 557] 
-
 questions of whether digital photo manipulation destroys the indexicality of the photograph. whether a satellite scene should be regarded as an image or a measurement and so on...
 
 The digital image, raises some of these issues again - rheinberger - discussions of whether a satellite image is an image or the visualization of an act of measurement - since no camera in the traditional sense is involved, data composites from different spectral sensors capturing waves far outside the visible spectrum. also questions of the trace-like, indexical nature of the photograph in the age of digital image manipulation.
