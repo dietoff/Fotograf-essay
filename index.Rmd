@@ -1,8 +1,21 @@
 ---
 site: bookdown::bookdown_site
 documentclass: article
+geometry: margin=1in
+mainfont: Utopia
+
+number_sections: false
 toc: false
+# indent: true
+
 citation_package: biblatex
 bibliography: /Users/dietmar/Dropbox/zotero/Zotero.bib
 csl: /Users/dietmar/Dropbox/zotero/styles/chicago-note-bibliography.csl
+# csl: /Users/dietmar/Dropbox/zotero/styles/vancouver.csl
+
+header-includes:
+  \renewcommand{\baselinestretch}{1.250}
+  \usepackage[document]{ragged2e}
+  \hyphenpenalty=2000
+  \exhyphenpenalty=2000
 ---
